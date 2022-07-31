@@ -23,7 +23,7 @@ $ conda create -n <name> python=3.8
 $ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 # Clone the repo and setup
 $ git clone https://anonymous.4open.science/r/MIM-Med3D.git
-$ cd bmssl
+$ cd MIM-Med3D
 $ python3 -m pip install -r requirements.txt
 $ python3 setup.py develop
 ```
